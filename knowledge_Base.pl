@@ -1,0 +1,2 @@
+male('Ahmad').
+male('Ali').
