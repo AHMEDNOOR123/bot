@@ -1,0 +1,21 @@
+.bg-nav {
+  background: #540d6e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ff7f00, #ff0000, #540d6e); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ff7f00, #ff0000, #540d6e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #fff; /* Text color */
+  padding: 10px; /* Adjust the padding to your preference */
+  font-size: 16px; /* Adjust the font size to your preference */
+  font-weight: bold; /* Adjust the font weight to your preference */
+  text-align: center; /* Center the text */
+  text-transform: uppercase; /* Convert the text to uppercase */
+  border-radius: 5px; /* Add rounded corners to the navigation bar */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Add a subtle box shadow */
+  transition: background-color 0.3s ease; /* Add a smooth transition effect on hover */
+}
+
+.bg-nav:hover {
+  background-color: #ff7f00; /* Change the background color on hover */
+}
+
+.mt-100{
+margin-top:100px}
